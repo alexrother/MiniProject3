@@ -35,7 +35,9 @@ was not measured, so post-discussion statistics are NA. HasRecovered kappa is NA
 because one author label falls outside the yes/no codebook and the remaining
 valid pairs are uniformly Yes, making kappa undefined. WoC samples can include
 non-default branches, so recent-theme judgments describe the available historical
-snapshot. Connor's reverse-direction validation log is included as received;
-its blank project IDs prevent pairing its records with individual projects,
-so it is not used in these statistics. These conventions keep the coding and
+snapshot. Connor's reverse-direction log uses the same labels and evidence for
+all ten rows within each field, so project IDs were populated from the official
+assignment list without changing label assignments. Its missing original author
+values prevent calculating paired pre-discussion agreement. The statistics here
+cover my review of Connor's projects. These conventions keep the coding and
 agreement measures tied to the evidence actually available.
